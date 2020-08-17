@@ -17,8 +17,8 @@ titles:
   ko-KR   : *KO
 key: page-about
 ---
-
-Just say something about yourself. :+1:
+Me llamo Alan Lindao Herrera soy un estudiante de la carrera de Ingeniería de Software, este blog de aqui es un  
+trabajo que tuvimos que hacer para que nos familiaricemos un poco con github y jekyll.
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
