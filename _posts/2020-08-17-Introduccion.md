@@ -4,7 +4,6 @@ title: Introducción a la Ingeniería de Software
 ---
 ##   ¿Que es Software
 ![imagen ](https://concepto.de/wp-content/uploads/2015/03/software-1-e1550080097569.jpg)
-
 ---
 
 
