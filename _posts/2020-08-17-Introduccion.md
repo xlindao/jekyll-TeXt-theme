@@ -3,9 +3,7 @@ title: Introducción a la Ingeniería de Software
 
 ---
 ##   ¿Que es Software
-
-https://github.com/xlindao/xlindao.github.io2/blob/master/images.jpg?raw=true
-
+![imagen ](https://concepto.de/wp-content/uploads/2015/03/software-1-e1550080097569.jpg)
 Programas de computo y su documentación asociada: requerimientos,
 modelos de diseño y manuales de usuario.
 El software puede ser genérico o ad hoc.
