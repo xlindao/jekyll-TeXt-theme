@@ -2,7 +2,9 @@
 title: Introducción a la Ingeniería de Software
 
 ---
-##   ¿Que es Software?
+##   ¿Que es Software
+
+https://github.com/xlindao/xlindao.github.io2/blob/master/images.jpg?raw=true
 
 Programas de computo y su documentación asociada: requerimientos,
 modelos de diseño y manuales de usuario.
