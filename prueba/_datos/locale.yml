@@ -2,9 +2,6 @@
 ## => English
 ########################
 en: &EN
-  SUBSCRIBE               : "Subscribe"
-  READMORE                : "Read more"
-  SEARCH                  : "Search"
   CANCEL                  : "Cancel"
   VIEWS                   : "views"
   LAST_UPDATED            : "Last updated"
@@ -33,7 +30,7 @@ en-AU:
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS
-  SUBSCRIBE               : "订阅"
+                  
   READMORE                : "阅读更多"
   SEARCH                  : "搜索"
   CANCEL                  : "取消"
