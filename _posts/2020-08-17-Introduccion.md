@@ -144,7 +144,7 @@ Los componentes deben tener documentaci´on asociada para ayudar a
 comprenderlos y adaptarlos a una nueva aplicación.
 
 ### Metodología Agil
-![Metodología Agil](https://lh3.googleusercontent.com/gkslmVS7F0awJSuvQJ4EisFZIUtnAjJboenfmLZ6JOLi8yc2MAhB1YzbtKZlYBub73ULm7757uTcO4-I5efX1WkUPd0Hpx_5g3tXWG9S46qi3BFgfhBZXO0L90Y9iJOpVdUhL5A)
+![Metodología Agil](https://lh3.googleusercontent.com/gkslmVS7F0awJSuvQJ4EisFZIUtnAjJboenfmLZ6JOLi8yc2MAhB1YzbtKZlYBub73ULm7757uTcO4-I5efX1WkUPd0Hpx_5g3tXWG9S46qi3BFgfhBZXO0L90Y9iJOpVdUhL5A))
 
 ***Figura 7:Metodología Agil***
 
